@@ -1,5 +1,5 @@
-import Database from './src/database.ts'
-import Config from './src/config.ts'
+import Database from "./src/database.ts";
+import Config from "./src/config.ts";
 
-export { Database }
-export type { Config }
+export { Database };
+export type { Config };
